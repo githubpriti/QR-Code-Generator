@@ -19,7 +19,7 @@ What I learned in this:
 ![lco](./screenshots/Web%20capture_22-2-2023_233954_127.0.0.1.jpeg)
 ![lco](./screenshots/Web%20capture_22-2-2023_233924_127.0.0.1.jpeg)
 
-## [Live Project Link](http://127.0.0.1:5500/07QRCodeGenerator%20-%20API/index.html)
+## [Live Project Link](https://cheerful-panda-8f4ce0.netlify.app)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
