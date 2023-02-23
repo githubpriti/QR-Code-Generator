@@ -1,6 +1,6 @@
 ![badge](https://img.shields.io/badge/LearnCodeOnline-INeuron)
 
-## All about Calculator
+## All about QR Code Generator
 
 What I learned in this:
 
